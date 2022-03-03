@@ -1,3 +1,6 @@
 [submodule "Intro/mochila_camada7"]
 	path = Intro/mochila_camada7
 	url = https://github.com/robertotorfe/mochila_camada7.git
+[submodule "frontI/PetShop"]
+	path = frontI/PetShop
+	url = https://github.com/lucasgustavodiaz/PetShop.git
