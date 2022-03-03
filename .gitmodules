@@ -4,3 +4,6 @@
 [submodule "frontI/PetShop"]
 	path = frontI/PetShop
 	url = https://github.com/lucasgustavodiaz/PetShop.git
+[submodule "frontI/CV-Batman"]
+	path = frontI/CV-Batman
+	url = https://github.com/lucasgustavodiaz/CV-Batman.git
