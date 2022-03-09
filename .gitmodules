@@ -7,3 +7,6 @@
 [submodule "frontI/CV-Batman"]
 	path = frontI/CV-Batman
 	url = https://github.com/lucasgustavodiaz/CV-Batman.git
+[submodule "frontI/card-hero"]
+	path = frontI/card-hero
+	url = https://github.com/lucasgustavodiaz/card-hero.git
